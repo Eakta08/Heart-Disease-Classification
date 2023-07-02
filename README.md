@@ -18,4 +18,5 @@ The dataset consists of:
 14. target - have disease or not (1=yes, 0=no)
 
 Here is the Google Collab link for Heart Disease Classification using sklearn : https://colab.research.google.com/github/Eakta08/Heart-Disease-Classification/blob/main/Heart%20Disease%20Classification%20using%20sklearn.ipynb
+
 Here is the Google Collab link for Heart Disease Classification using statsmodel.api : https://colab.research.google.com/github/Eakta08/Heart-Disease-Classification/blob/main/Heart%20Disease%20Classification%20using%20statsmodel.api.ipynb
